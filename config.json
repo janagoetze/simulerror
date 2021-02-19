@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "lexicon": {
+      "swe": "RESOURCES/Lexica/swe030224NST.pron",
+      "nor": "RESOURCES/Lexica/nor030224NST.pron",
+      "eng": "RESOURCES/Lexica/cmudict-0.7b.1"
+    },
+    "closed_class_words": {
+      "swe": "RESOURCES/stopwords_SWE.txt",
+      "nor": "RESOURCES/stopwords_NOR.txt",
+      "eng": "RESOURCES/stopwords_ENG.txt"
+    }
+  }
+}
