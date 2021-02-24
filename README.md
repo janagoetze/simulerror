@@ -1,4 +1,4 @@
-# misarticulation-simulation
+# simulerror
 
 This code provides functionality to simulate the speech error patterns that were investigated in
 
@@ -126,6 +126,12 @@ In order to run the simulations, you need the following resources:
     1483	inte
     ```
 
+The `DATA/` directory contains the frequency lists we have extracted from the
+corpora as listed in the publication. The files `missing_*` contain
+automatically  generated pronunciations for tokens not in the lexica and can be
+used to extend a lexicon as described in
+[Extending the lexicon](#extending-the-lexicon) below.
+
 ## Downloading the paper resources
 
 In order to download the resource files used in the paper, run:
@@ -227,6 +233,6 @@ specification in config.json.
 
 # Citation
 
-To cite the misarticulation-simulation tools in publications, please use:
+To cite the simulerror tools in publications, please use:
 
 > STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (to appear). *Simulating speech error patterns across languages and different datasets*. Language and Speech.

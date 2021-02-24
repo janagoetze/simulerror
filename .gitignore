@@ -1,6 +1,5 @@
 env/
 __pycache__/
 .DS_Store
-DATA/
 test/static/*.json
 *.log
