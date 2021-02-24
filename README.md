@@ -1,4 +1,4 @@
-# misarticulation-simulation
+# simulerror
 
 This code provides functionality to simulate the speech error patterns that were investigated in
 
@@ -227,6 +227,6 @@ specification in config.json.
 
 # Citation
 
-To cite the misarticulation-simulation tools in publications, please use:
+To cite the simulerror tools in publications, please use:
 
 > STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (to appear). *Simulating speech error patterns across languages and different datasets*. Language and Speech.
