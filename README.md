@@ -2,7 +2,7 @@
 
 This code provides functionality to simulate the speech error patterns that were investigated in
 
-> STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (to appear). Simulating speech error patterns across languages and different datasets. Language and Speech.
+> STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (2021). Simulating speech error patterns across languages and different datasets. Language and Speech. https://doi.org/10.1177%2F0023830920987268
 
  It also includes some of the complexity measures that were used for quantifying error impact.
 
@@ -235,4 +235,4 @@ specification in config.json.
 
 To cite the simulerror tools in publications, please use:
 
-> STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (to appear). *Simulating speech error patterns across languages and different datasets*. Language and Speech.
+> STRÖMBERGSSON, S., GÖTZE, J., EDLUND, J., & NILSSON BJÖRKENSTAM, K. (2021). *Simulating speech error patterns across languages and different datasets*. Language and Speech. https://doi.org/10.1177%2F0023830920987268
